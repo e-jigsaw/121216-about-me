@@ -1,4 +1,1 @@
-121216-about-me
-===============
-
-Presentation resource at 2012/12/16 KU
+http://e-jigsaw.github.com/121216-about-me/
